@@ -15,4 +15,4 @@ Although i had some issues with frigates own export guide, so i updated it on my
 | [**YOLOv9-S**] | 640 | **46.8%** | **63.4%** | **50.7%** | **7.1M** | **26.4G** | [x] |
 | [**YOLOv9-M**] | 640 | **51.4%** | **68.1%** | **56.1%** | **20.0M** | **76.3G** | [x] |
 | [**YOLOv9-C**] | 640 | **53.0%** | **70.2%** | **57.8%** | **25.3M** | **102.1G** | [x] |
-| [**YOLOv9-E**] | 640 | **55.6%** | **72.8%** | **60.6%** | *57.3M** | **189.0G** | [ ] |
+| [**YOLOv9-E**] | 640 | **55.6%** | **72.8%** | **60.6%** | *57.3M** | **189.0G** | [x] [Release](https://github.com/oritromax/YOLOv9-onnx/releases/tag/yolov9-e-640) |
